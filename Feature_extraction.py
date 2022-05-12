@@ -164,10 +164,10 @@ def extract_feature_train(url,output):
 
 #main funcation
 def main():
-    excel_file= 'C:/Users/vaish/hello/t14/ML---Detection-of-Phishing-Website-main/training.xlsx'
+    excel_file= 'training.xlsx'
     df=pd.DataFrame(pd.read_excel(excel_file))
 
-    excel_file_test= 'C:/Users/vaish/hello/t14/ML---Detection-of-Phishing-Website-main/test1.xlsx'
+    excel_file_test= 'test1.xlsx'
     df1=pd.DataFrame(pd.read_excel(excel_file_test))
 
     a=[]
