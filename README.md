@@ -1,4 +1,4 @@
-# Mini-Project-Phishing-Detection
+# Mini-Project-URL-Phishing-Detection
 This is our 2nd Year Mini Project on Phishing Detection. We are prefictingthe result using Random Forest Classifer.
 
 ![image](https://user-images.githubusercontent.com/82507473/168082304-053fd6d3-0920-416f-9f0a-8f355edcb598.png)
